@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "jskim's blog"
+title: jskim github blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: zzzzzkjs@gmail.com
 name: Ji Soo KIM

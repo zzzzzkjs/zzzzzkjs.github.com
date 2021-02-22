@@ -2,7 +2,7 @@ title:              Dev Blog
 email:              zzzzzkjs@gmail.com
 description:        jskim's blog
 author:             jskim
-baseurl:            "/blog"
+baseurl:            "/"
 url:                "https://zzzzzkjs.github.io"
 
 # Social Profiles

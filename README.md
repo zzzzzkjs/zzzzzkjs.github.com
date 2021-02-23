@@ -6,6 +6,7 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 ## 참고 링크
 [jekyll themes](http://jekyllthemes.org/)
+
 [jekyll github link](https://github.com/jekyll/jekyll)
 
 ## 테마 미리보기

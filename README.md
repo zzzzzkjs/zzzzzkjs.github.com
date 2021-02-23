@@ -6,7 +6,6 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 ## 참고 링크
 테마 : [jekyll themes](http://jekyllthemes.org/)
-
 지킬 깃허브 링크 : [jekyll github link](https://github.com/jekyll/jekyll)
 
 ## 테마 미리보기
@@ -27,7 +26,7 @@ When installing the theme using RubyGems, demo images, posts, and pages are not 
 4. Replace the current theme in your `_config.yml` file with `theme: jekyll-theme-clean-blog`.
 5. Build your site: `bundle exec jekyll serve`
 
-## 기타 소스관련 설정 가이드는 [Clean Blog 사이트(https://startbootstrap.com/theme/clean-blog-jekyll)]에 잘 나와있으니 생략
+## 기타 소스관련 설정 가이드는 [Clean Blog(https://startbootstrap.com/theme/clean-blog-jekyll)]에 잘 나와있으니 생략
 
 ## Copyright and License
 

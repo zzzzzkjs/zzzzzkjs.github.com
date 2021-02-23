@@ -5,9 +5,9 @@
 This repository holds the official Jekyll version of the Clean Blog theme on Start Bootstrap!
 
 ## 참고 링크
-[jekyll themes](http://jekyllthemes.org/)
+테마 : [jekyll themes](http://jekyllthemes.org/)
 
-[jekyll github link](https://github.com/jekyll/jekyll)
+지킬 깃허브 링크 : [jekyll github link](https://github.com/jekyll/jekyll)
 
 ## 테마 미리보기
 

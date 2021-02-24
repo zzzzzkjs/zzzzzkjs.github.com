@@ -4,6 +4,7 @@ description:        jskim's blog
 author:             jskim
 baseurl:            "/"
 url:                "https://zzzzzkjs.github.io"
+formspreeEndpoint:  mvovjpnp
 
 # Social Profiles
 twitter_username:   
